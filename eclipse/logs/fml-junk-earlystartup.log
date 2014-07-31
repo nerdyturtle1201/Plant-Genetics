@@ -1,0 +1,7 @@
+[19:09:44] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[19:09:45] [main/INFO] [GradleStart]: Extra: []
+[19:12:03] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[19:12:03] [main/INFO] [GradleStart]: Extra: []
+[19:12:31] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[19:12:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[19:12:31] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker

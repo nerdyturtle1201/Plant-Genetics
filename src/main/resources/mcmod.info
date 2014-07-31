@@ -1,0 +1,21 @@
+[
+{
+  "modid": "PlantGenetics",
+  "name": "Plant Genetics",
+  "description": "Plant Genetics Mod for Minecraft",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "nerdyturtle"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
